@@ -1,6 +1,6 @@
 cask "networkspeedmenubar" do
-  version "1.2"
-  sha256 "de428f45377fd83ff1603136f74488f2384db69cee0f7d6bdcd0d4cae1091daa"
+  version "1.3"
+  sha256 "bbecfb65ae2d646e2d4f6dccc986fb9a307608698b3bc9a0394618d82dd4c66d"
 
   url "https://github.com/m-tse/NetworkSpeedMenuBarApp/releases/download/v#{version}/NetworkSpeed-#{version}.zip"
   name "Network Speed Menu Bar"
